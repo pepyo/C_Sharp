@@ -1,0 +1,15 @@
+C:\Users\PYO\source\repos\20220329\20220329\bin\Debug\net6.0\20220329.exe
+C:\Users\PYO\source\repos\20220329\20220329\bin\Debug\net6.0\20220329.deps.json
+C:\Users\PYO\source\repos\20220329\20220329\bin\Debug\net6.0\20220329.runtimeconfig.json
+C:\Users\PYO\source\repos\20220329\20220329\bin\Debug\net6.0\20220329.dll
+C:\Users\PYO\source\repos\20220329\20220329\bin\Debug\net6.0\20220329.pdb
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.csproj.AssemblyReference.cache
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.AssemblyInfoInputs.cache
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.AssemblyInfo.cs
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.csproj.CoreCompileInputs.cache
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.dll
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\refint\20220329.dll
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.pdb
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\20220329.genruntimeconfig.cache
+C:\Users\PYO\source\repos\20220329\20220329\obj\Debug\net6.0\ref\20220329.dll
