@@ -1,0 +1,12 @@
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\bin\Debug\NewNotepad.exe.config
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\bin\Debug\NewNotepad.exe
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\bin\Debug\NewNotepad.pdb
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.csproj.AssemblyReference.cache
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.Form1.resources
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.Properties.Resources.resources
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.csproj.GenerateResource.cache
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.csproj.CoreCompileInputs.cache
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.exe
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.pdb
+C:\Users\PYO\source\repos\NewNotepad\NewNotepad\obj\Debug\NewNotepad.Form2.resources

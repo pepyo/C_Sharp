@@ -1,0 +1,11 @@
+C:\Users\PYO\source\repos\20220515\20220515\bin\Debug\20220515.exe.config
+C:\Users\PYO\source\repos\20220515\20220515\bin\Debug\20220515.exe
+C:\Users\PYO\source\repos\20220515\20220515\bin\Debug\20220515.pdb
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.csproj.AssemblyReference.cache
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.csproj.SuggestedBindingRedirects.cache
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\_20220515.Properties.Resources.resources
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.csproj.GenerateResource.cache
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.csproj.CoreCompileInputs.cache
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.exe
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\20220515.pdb
+C:\Users\PYO\source\repos\20220515\20220515\obj\Debug\_20220515.Winform1.resources
